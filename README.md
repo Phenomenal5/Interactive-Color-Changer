@@ -11,6 +11,6 @@ Welcome to the **Interactive Color Changer** project! This web application allow
 ## 🛠️ Technologies Used
 
 - **HTML**: Structuring the web page content.
-- **CSS**: Styling the application for visual appeal.
+- **SCSS**: Styling the application for visual appeal.
 - **JavaScript**: Adding interactivity to change colors dynamically.
 
