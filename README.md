@@ -13,4 +13,10 @@ Welcome to the **Interactive Color Changer** project! This web application allow
 - **HTML**: Structuring the web page content.
 - **SCSS**: Styling the application for visual appeal.
 - **JavaScript**: Adding interactivity to change colors dynamically.
-
+---
+## 🚀 How to Run
+- Ensure you have a modern web browser (like Chrome, Firefox, or Safari).
+- Simply open the index.html file from your local machine to experience the interactive color changer.
+---
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
